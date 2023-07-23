@@ -1,0 +1,43 @@
+/* Definir a cor de fundo do aplicativo da web */
+body{
+   
+}
+
+/* Adicionar cor ao título */
+h1{
+   
+   
+}
+
+/* Alinhar o botão 'Exibir Esboço' */
+#show_sketch{
+   
+}
+
+/* Adicionar estilo à tela */
+canvas{
+    /* adicionar uma borda */
+   
+    /* arredondar os cantos da tela */
+   
+    
+  
+    /* queremos que a animação seja executada continuamente */
+   
+    /* definir a margem no topo */
+   
+
+    
+}
+
+/* adicionamos a sombra de caixa à tela */
+/* @keyframes é uma palavra-chave que é usada para definir uma
+animação. Animation é o nome da animação */
+@keyframes animation {
+    /* Aqui, estamos definindo a sombra de caixa para verde quando 
+    a animação começar. */
+   
+    /* Agora, queremos que a propriedade box shadow mude de verde para
+    vermelho.  */
+   
+}
